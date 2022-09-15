@@ -1,2 +1,1 @@
-# Python
-Python, Scripts criados por min
+Print "(Olá mundo)"
